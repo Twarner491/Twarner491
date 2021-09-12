@@ -7,6 +7,10 @@
 
 ### Hey! I'm [Teddy Warner][website] ✌️
 
+<center>
+<img src="https://komarev.com/ghpvc/?username=twarner491&label=Profile%20views&color=0e75b6&style=flat" alt="twarner491" />
+</center>
+
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -17,9 +21,6 @@
   <td width="50%">
 
 <br><p align="center">![Website](https://img.shields.io/website?down_message=offline&label=teddywarner.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fteddywarner.org%2F)![Twitter Follow](https://img.shields.io/twitter/follow/WarnerTeddy?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
-<center>
-<img src="https://komarev.com/ghpvc/?username=twarner491&label=Profile%20views&color=0e75b6&style=flat" alt="twarner491" />
-</center>
 </p>
   </td>
   </table>
