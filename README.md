@@ -8,7 +8,7 @@
 ### Hey! I'm [Teddy Warner][website] ✌️
 
 ![Website](https://img.shields.io/website?down_message=offline&label=teddywarner.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fteddywarner.org%2F)
-<p align="left"> <a href="https://twitter.com/warnerteddy" target="blank"><img src="https://img.shields.io/twitter/follow/warnerteddy?logo=twitter&style=for-the-badge" alt="warnerteddy" /></a> </p>
+![Twitter Follow](https://img.shields.io/twitter/follow/WarnerTeddy?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twarner491&label=Profile%20views&color=0e75b6&style=flat" alt="twarner491" /> </p>
 
@@ -22,7 +22,7 @@
 
 <br />
 
-[![Spotify](novatorem-psi-one.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
+[![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
 
 ### Socials:
 
@@ -39,6 +39,6 @@
 <details>
   <summary>📈 GitHub Statistics</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-ten-liart.vercel.app/api?username=Twarner491&show_icons=true&hide_border=true" />
+  <img align="left" alt="Twarner491's GitHub Stats" src="github-readme-stats-ilfnfg0yv-twarner491.vercel.app/api?username=Twarner491&show_icons=true&hide_border=true" />
 
 </details>
