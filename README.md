@@ -20,9 +20,27 @@
 - 📫 How to reach me: [Email Me][email]!
 - 😄 Pronouns: He/Him
 
-<br />
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> 
+
+### 🎧 What I'm Listening to:
 
 [![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center"> 
+
+### 📈 GitHub Statistics
+
+ <img align="left" alt="Twarner491's GitHub Stats" src="https://github-readme-stats-ilfnfg0yv-twarner491.vercel.app/api?username=Twarner491&show_icons=true&hide_border=true" />
+</p>
+  </td>
+  </table>
 
 ### Socials:
 
@@ -39,6 +57,6 @@
 <details>
   <summary>📈 GitHub Statistics</summary>
 
-  <img align="left" alt="Twarner491's GitHub Stats" src="github-readme-stats-ilfnfg0yv-twarner491.vercel.app/api?username=Twarner491&show_icons=true&hide_border=true" />
+
 
 </details>
