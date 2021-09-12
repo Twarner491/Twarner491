@@ -14,9 +14,9 @@
 ## I'm a Highschooler & Fabricator from Charlotte, North Carolina
 
 - 🔭 I’m currently working on a [USB-C UPDI In-Circut Programmer][current]
-- 🌱 I’m currently learning the double sided PCB fabracation process
+- 🌱 I’m currently learning the double-sided PCB fabrication process
 - 👨‍💻 All of my projects are available on my portfolio - [teddywarner.org][website]
-- 📫 How to reach me: [Email Me][email]!
+- 📫 How to reach me: [Email][email], or any of my socials provided below
 - 😄 Pronouns: He/Him
 
 <table width="100%"> 
