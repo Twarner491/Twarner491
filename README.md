@@ -11,6 +11,14 @@
 <img src="https://komarev.com/ghpvc/?username=twarner491&label=Profile%20views&color=0e75b6&style=flat" alt="twarner491" />
 </center>
 
+## I'm a Highschooler & Fabricator from Charlotte, North Carolina
+
+- 🔭 I’m currently working on a [USB-C UPDI In-Circut Programmer][current]
+- 🌱 I’m currently learning the double sided PCB fabracation process
+- 👨‍💻 All of my projects are available on my portfolio - [teddywarner.org][website]
+- 📫 How to reach me: [Email Me][email]!
+- 😄 Pronouns: He/Him
+
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -20,18 +28,10 @@
   </td>
   <td width="50%">
 
-<br><p align="center">![Website](https://img.shields.io/website?down_message=offline&label=teddywarner.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fteddywarner.org%2F)![Twitter Follow](https://img.shields.io/twitter/follow/WarnerTeddy?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
+<br><p align="center">![Website](https://img.shields.io/website?down_message=offline&label=teddywarner.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fteddywarner.org%2F)![Twitter Follow](https://img.shields.io/twitter/follow/WarnerTeddy?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)![GitHub followers](https://img.shields.io/github/followers/Twarner491?color=%23181717&label=Follow%20%40Twarner491&logo=GitHub&logoColor=%23181717&style=for-the-badge)
 </p>
   </td>
   </table>
-
-## I'm a Highschooler & Fabricator from Charlotte, North Carolina
-
-- 🔭 I’m currently working on a [USB-C UPDI In-Circut Programmer][current]
-- 🌱 I’m currently learning the double sided PCB fabracation process
-- 👨‍💻 All of my projects are available on my portfolio - [teddywarner.org][website]
-- 📫 How to reach me: [Email Me][email]!
-- 😄 Pronouns: He/Him
 
 ### Socials:
 
