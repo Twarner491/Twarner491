@@ -28,7 +28,10 @@
   </td>
   <td width="50%">
 
-<br><p align="center">![Website](https://img.shields.io/website?down_message=offline&label=teddywarner.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fteddywarner.org%2F)![Twitter Follow](https://img.shields.io/twitter/follow/WarnerTeddy?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)![GitHub followers](https://img.shields.io/github/followers/Twarner491?color=%23181717&label=Follow%20%40Twarner491&logo=GitHub&logoColor=%23181717&style=for-the-badge)
+<br><p align="center">
+<a href="https://teddywarner.org/">![Website](https://img.shields.io/website?down_message=offline&label=teddywarner.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fteddywarner.org%2F)</a>
+<a href="https://twitter.com/WarnerTeddy">![Twitter Follow](https://img.shields.io/twitter/follow/WarnerTeddy?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)</a>
+<a href="https://github.com/Twarner491">![GitHub followers](https://img.shields.io/github/followers/Twarner491?color=%23181717&label=Follow%20%40Twarner491&logo=GitHub&logoColor=%23181717&style=for-the-badge)</a>
 </p>
   </td>
   </table>
