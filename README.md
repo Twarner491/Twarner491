@@ -7,10 +7,6 @@
 
 ### Hey! I'm [Teddy Warner][website] ✌️
 
-<center>
-<img src="https://komarev.com/ghpvc/?username=twarner491&label=Profile%20views&color=0e75b6&style=flat" alt="twarner491" />
-</center>
-
 ## I'm a Highschooler & Fabricator from Charlotte, North Carolina
 
 - 🔭 I’m currently working on a [USB-C UPDI In-Circut Programmer][current]
