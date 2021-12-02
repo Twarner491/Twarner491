@@ -1,5 +1,5 @@
 [website]: https://teddywarner.org/
-[current]: https://teddywarner.org/Projects/SerialUPDI/
+[current]: https://teddywarner.org/Projects/8-bit/
 [twitter]: https://twitter.com/WarnerTeddy
 [instagram]: https://www.instagram.com/teddywarner
 [linkedin]: https://www.linkedin.com/in/teddy-warner-880974200/
@@ -9,8 +9,8 @@
 
 ## I'm a Highschooler & Fabricator from Charlotte, North Carolina
 
-- 🔭 I’m currently working on a [USB-C UPDI In-Circut Programmer][current]
-- 🌱 I’m currently learning the double-sided PCB fabrication process
+- 🔭 I’m currently working on an [8-bit Breadboard Computer][current]
+- 🌱 I’m currently learning basic operating logic of a computer
 - 👨‍💻 All of my projects are available on my portfolio - [teddywarner.org][website]
 - 📫 How to reach me: [Email][email], or any of my socials provided below
 - 😄 Pronouns: He/Him
