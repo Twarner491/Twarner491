@@ -1,3 +1,101 @@
+<style>
+
+  .socials {
+  margin-top: -25px;
+}
+
+.ln {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.fa-linkedin:hover {
+    color: #0e76a8;
+}
+
+.git {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.fa-github:hover {
+    color: #404040;
+}
+
+.insta {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.fa-instagram:hover {
+    color: #ca2dfa;
+}
+
+.twitter {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.fa-twitter:hover {
+    color: #00acee;
+}
+
+.discord {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.fa-discord:hover {
+    color: #5865F2;
+}
+
+.spotify {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.fa-spotify:hover {
+    color: #1DB954;
+}
+
+.email {
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+.fa-paper-plane:hover {
+    color: #5466ce;
+}
+
+  .coffee {
+    width: 175px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 12px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    background-image: linear-gradient(315deg, #7183f0, #5466ce, #000000, #000000);
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.coffee:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+</style>
+
 [website]: https://teddywarner.org/
 [current]: https://teddywarner.org/Projects/8-bit/
 [twitter]: https://twitter.com/WarnerTeddy
@@ -34,19 +132,20 @@
 
 ### Socials:
 
-[<img align="left" alt="teddywarner.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Teddy Warner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="WarnerTeddy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="teddywarner| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="twarner491@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
+<div class="socials">
+  <a href="https://www.linkedin.com/in/teddy-warner-880974200/" class="ln" style=" color: inherit;" title="Linked In - Teddy Warner"><i class="fab fa-linkedin"></i></a>
+  <a href="https://github.com/Twarner491" class="git" style=" color: inherit;" title="Github - Twarner491"><i class="fab fa-github"></i></a>
+  <a href="https://www.instagram.com/teddywarner" class="insta" style=" color: inherit;" title="Instagram - @teddywarner"><i class="fa fa-instagram"></i></a>
+  <a href="https://twitter.com/WarnerTeddy" class="twitter" style=" color: inherit;" title="Twitter - @WarnerTeddy"><i class="fa fa-twitter"></i></a>
+  <a href="https://discordapp.com/users/534164566649733120/" class="ln" style=" color: inherit;" title="Discord - Twarner#2592"><i class="fab fa-discord"></i></a>
+  <a href="https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=58a503e3c7a54eeb" class="spotify" style=" color: inherit;" title="Spotify - Teddy Warner"><i class="fab fa-spotify"></i></a>
+  <a href="mailto:<Twarner491@gmail.com>" class="email" style=" color: inherit;" title="Email - Twarner491@gmail.com"><i class="fas fa-paper-plane"></i></a>
+</div>
 
 <br />
 
 ---
 
-<details>
-  <summary>📈 GitHub Statistics</summary>
-
- <img align="left" alt="Twarner491's GitHub Stats" src="https://github-readme-stats-ilfnfg0yv-twarner491.vercel.app/api?username=Twarner491&show_icons=true&hide_border=true" />
-
-</details>
+<a href="https://venmo.com/code?user_id=3111963315929088513&created=1639965251.6239061&printed=1" style=" color: inherit;">
+  <button class="coffee" title="Venmo - @Teddy-Warner"><i class="fas fa-coffee"></i> Buy Me a Coffee</button>
+</a>
