@@ -7,8 +7,9 @@
 
 ### Hey! I'm [Teddy Warner][website] ✌️
 
-## I'm a Highschooler & Fabricator from Charlotte, North Carolina
+## I'm a Student, Maker & Award Winning Designer
 
+- 📍 Charlotte, NC - United States
 - 🔭 I’m currently working on an [8-bit Breadboard Computer][current]
 - 🌱 I’m currently learning basic operating logic of a computer
 - 👨‍💻 All of my projects are available on my portfolio - [teddywarner.org][website]
@@ -41,12 +42,3 @@
 [<img align="left" alt="twarner491@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
 
 <br />
-
----
-
-<details>
-  <summary>📈 GitHub Statistics</summary>
-
- <img align="left" alt="Twarner491's GitHub Stats" src="https://github-readme-stats-ilfnfg0yv-twarner491.vercel.app/api?username=Twarner491&show_icons=true&hide_border=true" />
-
-</details>
