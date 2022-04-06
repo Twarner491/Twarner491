@@ -20,7 +20,7 @@
 - 📫 How to reach me: [Email][email], or any of my socials provided below
 - 😄 Pronouns: He/Him
 
-### @Teddymakesstuff On <img style='vertical-align:middle; display:inline; alt="Instagram - @teddymakesstuff" title="Linked In - Teddy Warner" width="15px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />Instagram -
+### @Teddymakesstuff On <img style="vertical-align:middle; display:inline;" alt="Instagram - @teddymakesstuff" title="Linked In - Teddy Warner" width="15px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />Instagram -
 
 ### 🎧 What I'm Listening To -
 
@@ -28,7 +28,7 @@
 
 ### Socials -
 
-[<img align="left" alt="TeddyWarner.org" title="TeddyWarner.org" width="22px" src="https://cdn1.iconfinder.com/data/icons/space-filled-outline-35/64/Earth-512.png" />][website]
+[<img align="left" alt="TeddyWarner.org" title="TeddyWarner.org" width="24px" src="https://cdn3.iconfinder.com/data/icons/save-earth-4/512/Earth-512.png" />][website]
 [<img align="left" alt="LinkedIn - Teddy Warner" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="left" alt="Instagram - @teddymakesstuff" title="Linked In - Teddy Warner" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 [<img align="left" alt="Twitter - WarnerTeddy" title="Twitter - @WarnerTeddy" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
