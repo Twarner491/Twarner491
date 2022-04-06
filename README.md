@@ -1,3 +1,4 @@
+[linktree]: https://linktr.ee/TeddyWarner
 [website]: https://teddywarner.org/
 [current]: https://teddywarner.org/Projects/8-bit/
 [twitter]: https://twitter.com/WarnerTeddy
@@ -5,9 +6,7 @@
 [linkedin]: https://www.linkedin.com/in/teddy-warner-880974200/
 [email]: mailto:<Twarner491@gmail.com>
 
-<script src="https://kit.fontawesome.com/79ff35ecec.js" crossorigin="anonymous"></script>
-
-### Hey! I'm [Teddy Warner][https://linktr.ee/TeddyWarner] ✌️
+### Hey! I'm [Teddy Warner][linktree] ✌️
 
 ## A Student, Maker & Award Winning Designer
 
@@ -31,5 +30,3 @@
 [<img align="left" alt="WarnerTeddy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="teddywarner| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="twarner491@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
-
-<br />
