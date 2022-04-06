@@ -16,22 +16,17 @@
 - 📫 How to reach me: [Email][email], or any of my socials provided below
 - 😄 Pronouns: He/Him
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
+---
 
-  </td>
-  <td width="50%">
+### 🎧 What I'm Listening To -
 
-<br><p align="center">
+[![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
+
+<p align="center">
 <a href="https://teddywarner.org/">![Website](https://img.shields.io/website?down_message=offline&label=teddywarner.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fteddywarner.org%2F)</a>
 <a href="https://twitter.com/WarnerTeddy">![Twitter Follow](https://img.shields.io/twitter/follow/WarnerTeddy?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)</a>
 <a href="https://github.com/Twarner491">![GitHub followers](https://img.shields.io/github/followers/Twarner491?color=%23181717&label=Follow%20%40Twarner491&logo=GitHub&logoColor=%23181717&style=for-the-badge)</a>
 </p>
-  </td>
-  </table>
 
 ### Socials:
 
