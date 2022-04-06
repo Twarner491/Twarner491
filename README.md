@@ -5,9 +5,11 @@
 [linkedin]: https://www.linkedin.com/in/teddy-warner-880974200/
 [email]: mailto:<Twarner491@gmail.com>
 
-### Hey! I'm [Teddy Warner][website] ✌️
+<script src="https://kit.fontawesome.com/79ff35ecec.js" crossorigin="anonymous"></script>
 
-## I'm a Student, Maker & Award Winning Designer
+### Hey! I'm [Teddy Warner][https://linktr.ee/TeddyWarner] ✌️
+
+## A Student, Maker & Award Winning Designer
 
 - 📍 Charlotte, NC - United States
 - 🔭 I’m currently working on an [8-bit Breadboard Computer][current]
@@ -20,27 +22,9 @@
 
 [![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
 
-<p align="center">
-  <a href="https://teddywarner.org/">
+### <a href="https://www.instagram.com/teddymakesstuff/"> @teddymakesstuff on Instagram <i style="background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;" class="fab fa-instagram"></i> - </a>
 
-  ![Website](https://img.shields.io/website?down_message=offline&label=teddywarner.org&style=for-the-badge&up_message=online&url=https%3A%2F%2Fteddywarner.org%2F)
-
-  </a>
-
-  <a href="https://twitter.com/WarnerTeddy">
-
-  ![Twitter Follow](https://img.shields.io/twitter/follow/WarnerTeddy?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
-
-  </a>
-
-  <a href="https://github.com/Twarner491">
-
-  ![GitHub followers](https://img.shields.io/github/followers/Twarner491?color=%23181717&label=Follow%20%40Twarner491&logo=GitHub&logoColor=%23181717&style=for-the-badge)
-
-  </a>
-</p>
-
-### Socials:
+### Socials -
 
 [<img align="left" alt="teddywarner.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Teddy Warner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
