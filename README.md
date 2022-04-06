@@ -20,7 +20,7 @@
 - 📫 How to reach me: [Email][email], or any of my socials provided below
 - 😄 Pronouns: He/Him
 
-### <img align="left" alt="teddywarner| Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /> @teddymakesstuff -
+### <img align="left" alt="teddywarner| Instagram" width="10px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />@teddymakesstuff -
 
 ### 🎧 What I'm Listening To -
 
