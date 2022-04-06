@@ -20,7 +20,7 @@
 - 📫 How to reach me: [Email][email], or any of my socials provided below
 - 😄 Pronouns: He/Him
 
-### <img align="left" alt="teddywarner| Instagram" width="10px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />@teddymakesstuff -
+### @Teddymakesstuff On <img align="left" alt="teddywarner| Instagram" width="15px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />Instagram -
 
 ### 🎧 What I'm Listening To -
 
@@ -28,11 +28,11 @@
 
 ### Socials -
 
-[<img align="left" alt="TeddyWarner.org" title="TeddyWarner.org" width="22px" src="https://teddywarner.org/images/TW.svg" />][website]
+[<img align="left" alt="TeddyWarner.org" title="TeddyWarner.org" width="22px" src="https://cdn3.iconfinder.com/data/icons/save-earth-4/512/Earth-512.png" />][website]
 [<img align="left" alt="LinkedIn - Teddy Warner" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="left" alt="Instagram - @teddymakesstuff" title="Linked In - Teddy Warner" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 [<img align="left" alt="Twitter - WarnerTeddy" title="Twitter - @WarnerTeddy" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
 [<img align="left" alt="Discord - Twarner#2592" title="Discord - Twarner#2592" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png" />][discord]
 [<img align="left" alt="Spotify - Teddy Warner" title="Spotify - Teddy Warner" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/spotify_interface_media_social_logo-512.png" />][spotify]
 [<img align="left" alt="Buy Me a Coffee :)" title="Buy Me a Coffee :)" width="22px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/coffee-512.png" />][coffee]
-[<img align="left" alt="Email - twarner491@gmail.com" title="Email - Twarner491@gmail.com" width="22px" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/telegram-plane-512.png" />][email]
+[<img align="left" alt="Email - twarner491@gmail.com" title="Email - Twarner491@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-512.png" />][email]
