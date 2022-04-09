@@ -20,7 +20,13 @@
 - 📫 How to reach me: [Email][email], or any of my socials provided below
 - 😄 Pronouns: He/Him
 
-### @Teddymakesstuff On <img style="vertical-align:middle; display:inline;" alt="Instagram - @teddymakesstuff" title="Linked In - Teddy Warner" width="15px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /> Instagram -
+### [@Teddymakesstuff][instagram] On <img style="vertical-align:middle; display:inline;" alt="Instagram - @teddymakesstuff" title="Linked In - Teddy Warner" width="15px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /> Instagram -
+
+<div data-mc-src="5e60f977-523e-4cdd-82b3-56e287242388#instagram"></div>      
+<script 
+  src="https://cdn2.woxo.tech/a.js#624e1b157fd2b900217e7b0d" 
+  async data-usrc>
+</script>
 
 ### 🎧 What I'm Listening To -
 
@@ -29,8 +35,8 @@
 ### Socials -
 
 [<img align="left" alt="TeddyWarner.org" title="TeddyWarner.org" width="22px" src="https://cdn3.iconfinder.com/data/icons/save-earth-4/512/Earth-512.png" />][website]
-[<img align="left" alt="LinkedIn - Teddy Warner" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="Instagram - @teddymakesstuff" title="Linked In - Teddy Warner" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+[<img align="left" alt="LinkedIn - Teddy Warner" title="LinkedIn - Teddy Warner" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="Instagram - @teddymakesstuff" title="Instagram - Teddy Warner" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 [<img align="left" alt="Twitter - WarnerTeddy" title="Twitter - @WarnerTeddy" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
 [<img align="left" alt="Discord - Twarner#2592" title="Discord - Twarner#2592" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png" />][discord]
 [<img align="left" alt="Spotify - Teddy Warner" title="Spotify - Teddy Warner" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/spotify_interface_media_social_logo-512.png" />][spotify]
