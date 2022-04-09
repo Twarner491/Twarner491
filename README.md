@@ -20,11 +20,6 @@
 - 📫 How to reach me: [Email][email], or any of my socials provided below
 - 😄 Pronouns: He/Him
 
-### [@Teddymakesstuff][instagram] On <img style="vertical-align:middle; display:inline;" alt="Instagram - @teddymakesstuff" title="Linked In - Teddy Warner" width="15px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" /> Instagram -
-
-<div data-mc-src="5e60f977-523e-4cdd-82b3-56e287242388#instagram"></div>      
-<script src="https://cdn2.woxo.tech/a.js#624e1b157fd2b900217e7b0d" async data-usrc></script>
-
 ### 🎧 What I'm Listening To -
 
 [![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
