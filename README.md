@@ -1,6 +1,6 @@
 [linktree]: https://linktr.ee/TeddyWarner
 [website]: https://teddywarner.org/
-[current]: https://teddywarner.org/Projects/8-bit/
+[current]: https://teddywarner.org/Projects/MillingWorflow/
 [linkedin]: https://www.linkedin.com/in/teddy-warner-880974200/
 [instagram]: https://www.instagram.com/teddymakesstuff/
 [twitter]: https://twitter.com/WarnerTeddy
@@ -14,7 +14,7 @@
 ## A Student, Maker & Award Winning Designer
 
 - 📍 Charlotte, NC - United States
-- 🔭 I’m currently working on an [8-bit Breadboard Computer][current]
+- 🔭 I’m currently working on a [CNC Milling Workflows][current] article
 - 🌱 I’m currently learning basic operating logic of a computer
 - 👨‍💻 All of my projects are available on my portfolio - [teddywarner.org][website]
 - 📫 How to reach me: [Email][email], or any of my socials provided below
