@@ -9,16 +9,10 @@
 [coffee]: https://www.buymeacoffee.com/teddywarner
 [email]: mailto:<Twarner491@gmail.com>
 
-### Hey! I'm [Teddy Warner][linktree] ✌️
+![](https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif)
 
-## A Student, Maker & Award Winning Designer
-
-- 📍 Charlotte, NC - United States
-- 🔭 I’m currently working on a [CNC Milling Workflows][current] article
-- 🌱 I’m currently learning basic operating logic of a computer
-- 👨‍💻 All of my projects are available on my portfolio - [teddywarner.org][website]
-- 📫 How to reach me: [Email][email], or any of my socials provided below
-- 😄 Pronouns: He/Him
+### Hey! I'm [Teddy Warner][(https://teddywarner.org/About-Me/about/)✌️
+I'm a maker and a student at the University of Southern California's [Iovine and Young Academy](https://iovine-young.usc.edu/). My passion lies in rapid prototyping & digital fabrication - check out my website, [teddywarner.org](https://teddywarner.org) to see some of my work. I tend to respond to [emails](email) quickly, and I am always open to chat!
 
 ### 🎧 What I'm Listening To -
 
