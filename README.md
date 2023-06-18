@@ -1,6 +1,6 @@
 [linktree]: https://linktr.ee/TeddyWarner
 [website]: https://teddywarner.org/
-[current]: https://teddywarner.org/Projects/MillingWorflow/
+[current]: https://github.com/Twarner491/GPENT
 [linkedin]: https://www.linkedin.com/in/teddy-warner-880974200/
 [instagram]: https://www.instagram.com/teddymakesstuff/
 [twitter]: https://twitter.com/WarnerTeddy
@@ -14,7 +14,11 @@
 **Hey! I'm [Teddy Warner](https://teddywarner.org/About-Me/about/)✌️**, I'm a maker and a student at the University of Southern California's [Iovine and Young Academy](https://iovine-young.usc.edu/). My passion lies in rapid prototyping & digital fabrication - check out my website, [teddywarner.org](https://teddywarner.org) to see some of my work. 
 I tend to respond to [emails](email) quickly, and I am always open to chat!
 
-
+- 🗺 Charlotte, NC - United States
+- 🖉 I’m currently working on a [GPT-Integrated Pen Plotter][current]!
+- 🕮 I’m currently learning basic operating logic of a computer
+- 🖳 All of my projects are available on my site, [teddywarner.org][website]
+- ✉ How to reach me: [Email][email], or any of my socials provided below
 
 ### 🎧 What I'm Listening To -
 
