@@ -11,10 +11,10 @@
 
 ![](https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif)
 
-### Hey! I'm [Teddy Warner](https://teddywarner.org/About-Me/about/)✌️
-I'm a maker and a student at the University of Southern California's [Iovine and Young Academy](https://iovine-young.usc.edu/). 
-My passion lies in rapid prototyping & digital fabrication - check out my website, [teddywarner.org](https://teddywarner.org) to see some of my work. 
+**Hey! I'm [Teddy Warner](https://teddywarner.org/About-Me/about/)✌️**, I'm a maker and a student at the University of Southern California's [Iovine and Young Academy](https://iovine-young.usc.edu/). My passion lies in rapid prototyping & digital fabrication - check out my website, [teddywarner.org](https://teddywarner.org) to see some of my work. 
 I tend to respond to [emails](email) quickly, and I am always open to chat!
+
+
 
 ### 🎧 What I'm Listening To -
 
