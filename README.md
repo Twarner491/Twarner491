@@ -11,7 +11,7 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
 
 [![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
 
-<p align="center">
+<p align="center" style="margin-top:100px">
   <a href="https://www.linkedin.com/in/teddy-warner-880974200/" title="Linkedin - @teddywarner"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" /></a>
   <a href="https://twitter.com/WarnerTeddy" title="X - @WarnerTeddy"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" /></a>
   <a href="https://www.instagram.com/teddymakesstuff/" title="Instagram - @TeddyMakesStuff"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" /></a>
