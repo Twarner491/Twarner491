@@ -1,6 +1,6 @@
-<script src="https://kit.fontawesome.com/79ff35ecec.js" crossorigin="anonymous"></script>
+<br>
 
-<img alt="TeddyWarner" src="https://github.com/Twarner491/Twarner491/blob/main/loader.gif" />
+<img alt="TeddyWarner" src="https://github.com/Twarner491/Twarner491/blob/main/assets/loader.gif" />
 
 <p align="center">
 USC Iovine and Young Academy | Developer | Designer | Digital Fabricator | Fab Academy Graduate
@@ -12,13 +12,13 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
 [![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
 
 <p align="center">
-  <a href="" title="Linkedin - @teddywarner"><i class="fa-brands fa-linkedin"></i></a>
-  <a href="" title="X - @WarnerTeddy"><i class="fa-brands fa-square-x-twitter"></i></a>
-  <a href="" title="Instagram - @TeddyMakesStuff"><i class="fa-brands fa-square-instagram"></i></a>
-  <a href="" title="Youtube - @teddywarner"><i class="fa-brands fa-square-youtube"></i></a>
-  <a href="" title="Email - twarner491@gmail.com"><i class="fa-solid fa-square-envelope"></i></a>
+  <a href="" title="Linkedin - @teddywarner"><img src="" /></a>
+  <a href="" title="X - @WarnerTeddy"><img src="" /></a>
+  <a href="" title="Instagram - @TeddyMakesStuff"><img src="" /></a>
+  <a href="" title="Youtube - @teddywarner"><img src="" /></a>
+  <a href="" title="Email - twarner491@gmail.com"><img src="" /></a>
 </p>
 
-![](https://raw.githubusercontent.com/Twarner491/Twarner491/main/bottom_header.svg)
+![](https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/bottom_header.svg)
 <br>
 </p>
