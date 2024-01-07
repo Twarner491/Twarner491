@@ -1,4 +1,4 @@
-<img alt="TeddyWarner" width="100%" height="200px" src="https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif" />
+<img alt="TeddyWarner"  style="width: 100%; height: 200px; object-fit: cover;" src="https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif" />
 
 <p align="center">
 USC Iovine and Young Academy | Developer | Designer | Digital Fabricator | Fab Academy Graduate
