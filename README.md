@@ -12,7 +12,9 @@
 ![Teddy Warner](https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif)
 
 <p align="center">
-Enthusiastic and detail-oriented student and maker at the University of Southern California's Iovine and Young Academy. I bring a strong foundation in conceptualizing and executing innovative designs through rapid prototyping and digital fabrication. I’m enthralled by any opportunity to use these skills to aid and influence others' lives. Visit my portfolio at [teddywarner.org](https://teddywarner.org) to explore a selection of my projects.
+USC Iovine and Young Academy | Developer | Designer | Digital Fabricator | Fab Academy Graduate
+  
+Enthusiastic and detail-oriented student and maker at the University of Southern California's Iovine and Young Academy. I bring a strong foundation in conceptualizing and executing innovative designs through rapid prototyping and digital fabrication. I’m enthralled by any opportunity to use these skills to aid and influence others' lives. Visit my portfolio at <a href="https://teddywarner.org">teddywarner.org</a> to explore a selection of my projects.
 <br><br>
   · <a href="https://docs.google.com/document/d/1PYGzcMTuvcSjJsXomp-win3_tvn-WFpQ/edit?usp=sharing&ouid=117910198967406819470&rtpof=true&sd=true">Resume</a>
  · 
