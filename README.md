@@ -16,7 +16,7 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
   <a href="https://twitter.com/WarnerTeddy" title="X - @WarnerTeddy"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" /></a>
   <a href="https://www.instagram.com/teddymakesstuff/" title="Instagram - @TeddyMakesStuff"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" /></a>
   <a href="https://www.youtube.com/@teddywarner" title="Youtube - @teddywarner"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" /></a>
-  <a href="<Twarner491@gmail.com>" title="Email - twarner491@gmail.com"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" /></a>
+  <a href="Twarner491@gmail.com" title="Email - twarner491@gmail.com"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" /></a>
 </p>
 
 ![](https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/bottom_header.svg)
