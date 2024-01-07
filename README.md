@@ -9,16 +9,18 @@
 [coffee]: https://www.buymeacoffee.com/teddywarner
 [email]: mailto:<Twarner491@gmail.com>
 
-![](https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif)
+![Teddy Warner](https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif)
 
-**Hey! I'm [Teddy Warner](https://teddywarner.org/About-Me/about/)✌️**, a maker, and a student at the University of Southern California's [Iovine and Young Academy](https://iovine-young.usc.edu/). My passion lies in rapid prototyping & digital fabrication - check out my website, [teddywarner.org](https://teddywarner.org) to see some of my work. 
-I tend to respond to [emails](email) quickly, and I am always open to chat!
-
-- 📌 Los Angeles, CA - United States
-- 📝 I’m currently working on overhauling the index page of [Teddywarner.org][website]!
-- 📖 I’m currently learning basic operating logic of a computer
-- 💽 All of my projects are available on my site, [teddywarner.org][website]
-- 📧 How to reach me: [Email][email], or any of my socials provided below
+<p align="center">
+Enthusiastic and detail-oriented student and maker at the University of Southern California's Iovine and Young Academy. I bring a strong foundation in conceptualizing and executing innovative designs through rapid prototyping and digital fabrication. I’m enthralled by any opportunity to use these skills to aid and influence others' lives. Visit my portfolio at [teddywarner.org](https://teddywarner.org) to explore a selection of my projects.
+<br><br>
+  · <a href="https://docs.google.com/document/d/1PYGzcMTuvcSjJsXomp-win3_tvn-WFpQ/edit?usp=sharing&ouid=117910198967406819470&rtpof=true&sd=true">Resume</a>
+ · 
+<br>
+<a href="https://play.google.com/store/apps/dev?id=4898227705286580329">Android developer @Trilokia Inc.</a>
+| <a href="https://gdg.community.dev/gdg-jammu/">Community organizer @GDG Jammu</a>
+<br>
+ <p align="center">
 
 ### 🎧 What I'm Listening To -
 
@@ -34,3 +36,19 @@ I tend to respond to [emails](email) quickly, and I am always open to chat!
 [<img align="left" alt="Spotify - Teddy Warner" title="Spotify - Teddy Warner" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/spotify_interface_media_social_logo-512.png" />][spotify]
 [<img align="left" alt="Buy Me a Coffee :)" title="Buy Me a Coffee :)" width="22px" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-2/24/coffee-512.png" />][coffee]
 [<img align="left" alt="Email - twarner491@gmail.com" title="Email - Twarner491@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-512.png" />][email]
+
+<br>
+<br>
+
+
+<p align="center">
+ <i>Take a look at my repositories and let's get in touch!</i>
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=trilokia"/>       
+</p>
+
+</p>
+
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
+</p>
