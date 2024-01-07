@@ -1,3 +1,9 @@
+[linkedin]: https://www.linkedin.com/in/teddy-warner-880974200/
+[twitter]: https://twitter.com/WarnerTeddy
+[instagram]: https://www.instagram.com/teddymakesstuff/
+[youtube]: https://www.youtube.com/@teddywarner
+[email]: mailto:<Twarner491@gmail.com>
+
 <br>
 
 <img alt="TeddyWarner" src="https://github.com/Twarner491/Twarner491/blob/main/assets/loader.gif" />
@@ -13,11 +19,11 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
 
 <p align="center">
   
-[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" />](https://www.linkedin.com/in/teddy-warner-880974200/)
-[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" />](https://twitter.com/WarnerTeddy)
-[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" />](https://www.instagram.com/teddymakesstuff/)
-[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" />](https://www.youtube.com/@teddywarner)
-[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" />](mailto:Twarner491@gmail.com)
+[<img align="left" alt="LinkedIn - Teddy Warner" title="LinkedIn - Teddy Warner" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter - WarnerTeddy" title="Twitter - @WarnerTeddy" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" />][twitter]
+[<img align="left" alt="Instagram - @teddymakesstuff" title="Instagram - Teddy Warner" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" />][instagram]
+[<img align="left" alt="Youtube - @teddywarner" title="Instagram - Teddy Warner" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" />][youtube]
+[<img align="left" alt="Email - twarner491@gmail.com" title="Email - Twarner491@gmail.com" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" />][email]
 
 </p>
 
