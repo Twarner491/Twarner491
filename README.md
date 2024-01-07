@@ -8,6 +8,7 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
 </p>
 
 <p align="center">
+  
 [![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
   
 </p>
