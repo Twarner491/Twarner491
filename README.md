@@ -19,11 +19,11 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
 
 <p align="center">
   
-[<img align="left" alt="LinkedIn - Teddy Warner" title="LinkedIn - Teddy Warner" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter - WarnerTeddy" title="Twitter - @WarnerTeddy" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" />][twitter]
-[<img align="left" alt="Instagram - @teddymakesstuff" title="Instagram - Teddy Warner" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" />][instagram]
-[<img align="left" alt="Youtube - @teddywarner" title="Instagram - Teddy Warner" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" />][youtube]
-[<img align="left" alt="Email - twarner491@gmail.com" title="Email - Twarner491@gmail.com" width="22px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" />][email]
+[<img align="left" alt="LinkedIn - Teddy Warner" title="LinkedIn - Teddy Warner" width="18px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter - WarnerTeddy" title="Twitter - @WarnerTeddy" width="18px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" />][twitter]
+[<img align="left" alt="Instagram - @teddymakesstuff" title="Instagram - Teddy Warner" width="18px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" />][instagram]
+[<img align="left" alt="Youtube - @teddywarner" title="Instagram - Teddy Warner" width="18px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" />][youtube]
+[<img align="left" alt="Email - twarner491@gmail.com" title="Email - Twarner491@gmail.com" width="18px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" />][email]
 
 </p>
 
