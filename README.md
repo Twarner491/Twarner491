@@ -1,4 +1,11 @@
-<img alt="TeddyWarner"  style="width: 800px; height: 200px; object-fit: cover;" src="https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif" />
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+<img alt="TeddyWarner" src="https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif" />
 
 <p align="center">
 USC Iovine and Young Academy | Developer | Designer | Digital Fabricator | Fab Academy Graduate
