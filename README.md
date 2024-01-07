@@ -1,9 +1,6 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://docs.google.com/document/d/1PYGzcMTuvcSjJsXomp-win3_tvn-WFpQ/edit?usp=sharing&ouid=117910198967406819470&rtpof=true&sd=true">
+  <p align="right"/>Resume</p>
 </a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <img alt="TeddyWarner" src="https://raw.githubusercontent.com/Twarner491/TeddyWarner.org/main/docs/images/index/loader.gif" />
 
@@ -12,8 +9,7 @@ USC Iovine and Young Academy | Developer | Designer | Digital Fabricator | Fab A
   
 Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusiastic and detail-oriented student and maker at the University of Southern California's Iovine and Young Academy. I bring a strong foundation in conceptualizing and executing innovative designs through rapid prototyping and digital fabrication. I’m enthralled by any opportunity to use these skills to aid and influence others' lives. Visit my portfolio at <a href="https://teddywarner.org">teddywarner.org</a> to explore a selection of my projects.
 <br><br>
-  · <a href="https://docs.google.com/document/d/1PYGzcMTuvcSjJsXomp-win3_tvn-WFpQ/edit?usp=sharing&ouid=117910198967406819470&rtpof=true&sd=true">Resume</a>
- · 
+
 <br>
 <a href="https://play.google.com/store/apps/dev?id=4898227705286580329">Android developer @Trilokia Inc.</a>
 | <a href="https://gdg.community.dev/gdg-jammu/">Community organizer @GDG Jammu</a>
