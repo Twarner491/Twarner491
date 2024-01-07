@@ -2,7 +2,7 @@
   <p align="right"/>Resume</p>
 </a>
 
-<img alt="TeddyWarner" src="../loader.gif" />
+<img alt="TeddyWarner" src="https://github.com/Twarner491/Twarner491/blob/main/loader.gif" />
 
 <p align="center">
 USC Iovine and Young Academy | Developer | Designer | Digital Fabricator | Fab Academy Graduate
