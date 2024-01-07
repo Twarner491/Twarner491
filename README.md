@@ -12,11 +12,11 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
 [![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
 
 <p align="center">
-  [<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" />](https://www.linkedin.com/in/teddy-warner-880974200/)
-  [<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" />](https://twitter.com/WarnerTeddy)
-  [<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" />](https://www.instagram.com/teddymakesstuff/)
-  [<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" />](https://www.youtube.com/@teddywarner)
-  [<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" />](mailto:Twarner491@gmail.com)
+[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" />](https://www.linkedin.com/in/teddy-warner-880974200/)
+[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" />](https://twitter.com/WarnerTeddy)
+[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" />](https://www.instagram.com/teddymakesstuff/)
+[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" />](https://www.youtube.com/@teddywarner)
+[<img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" />](mailto:Twarner491@gmail.com)
 
 </p>
 
