@@ -52,7 +52,6 @@ svg {
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
 <svg height="30" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/teddy-warner-880974200/"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" alt="LinkedIn"></a>
     <a href="https://twitter.com/WarnerTeddy"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" alt="Twitter"></a>
     <a href="https://www.instagram.com/teddymakesstuff/"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" alt="Instagram"></a>
     <a href="https://www.youtube.com/@teddywarner"><img src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" alt="Youtube"></a>
