@@ -9,9 +9,9 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
 
 </p>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=twarner491&label=Profile%20views&color=0e75b6&style=flat" alt="twarner491" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=twarner491&label=Profile%20views&color=0e75b6&style=flat" alt="twarner491" /> </p>-->
 
-[![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)-->
+<!--[![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)-->
 
 ![](https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/bottom_header.svg)
 
