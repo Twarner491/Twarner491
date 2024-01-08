@@ -1,9 +1,3 @@
-[linkedin]: https://www.linkedin.com/in/teddy-warner-880974200/
-[twitter]: https://twitter.com/WarnerTeddy
-[instagram]: https://www.instagram.com/teddymakesstuff/
-[youtube]: https://www.youtube.com/@teddywarner
-[email]: mailto:<Twarner491@gmail.com>
-
 <br>
 
 <img alt="TeddyWarner" src="https://github.com/Twarner491/Twarner491/blob/main/assets/loader.gif" />
@@ -15,14 +9,9 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an Enthusia
 
 </p>
 
-[![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)
+<!--[![Spotify](https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify)](https://open.spotify.com/user/mskz5e4dyzv4cb4kkn73iipq0?si=5eba25ddc4f74313)-->
 
 ![](https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/bottom_header.svg)
-[<img align="left" alt="LinkedIn - Teddy Warner" title="LinkedIn - Teddy Warner" width="20px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter - WarnerTeddy" title="Twitter - @WarnerTeddy" width="20px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-x-twitter.svg" />][twitter]
-[<img align="left" alt="Instagram - @teddymakesstuff" title="Instagram - Teddy Warner" width="20px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-instagram.svg" />][instagram]
-[<img align="left" alt="Youtube - @teddywarner" title="Instagram - Teddy Warner" width="20px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" />][youtube]
-[<img align="left" alt="Email - twarner491@gmail.com" title="Email - Twarner491@gmail.com" width="20px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" />][email]
 
 <br>
 </p>
