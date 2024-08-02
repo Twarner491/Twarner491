@@ -12,7 +12,5 @@ Hey! I'm <a href="https://teddywarner.org/about-me/about">Teddy</a>, an enthusia
 <a href="https://www.youtube.com/@teddywarner"><img align="center" alt="Youtube - @teddywarner" title="Instagram - Teddy Warner" width="18px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-youtube.svg" /></a>
 <a href="mailto:<Twarner491@gmail.com>"><img align="center" alt="Email - twarner491@gmail.com" title="Email - Twarner491@gmail.com" width="18px" src="https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/icons/square-envelope-solid.svg" /></a>
 
-![](https://raw.githubusercontent.com/Twarner491/Twarner491/main/assets/bottom_header.svg)
-
 <br>
 </p>
